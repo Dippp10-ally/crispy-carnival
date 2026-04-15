@@ -11,3 +11,5 @@ https://github-ranked.vercel.app/Dippp10-ally
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="Dippp10-ally's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dippp10-ally?cardType=level&fontFamily=&preferLogin=false" />  </a>
 
   [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Dippp10-ally)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
