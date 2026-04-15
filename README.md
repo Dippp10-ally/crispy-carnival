@@ -38,3 +38,5 @@ https://github-ranked.vercel.app/Dippp10-ally
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dippp10-ally)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-trophies.vercel.app/?username=Dippp10-ally)
