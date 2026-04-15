@@ -35,3 +35,6 @@ https://github-ranked.vercel.app/Dippp10-ally
 [![](https://komarev.com/ghpvc/?username=Dippp10-ally&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dippp10-ally)](https://github.com/ryo-ma/github-profile-trophy)
