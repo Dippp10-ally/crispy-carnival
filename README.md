@@ -121,3 +121,5 @@ https://github-ranked.vercel.app/Dippp10-ally
   code with 💙 by alfaarghya-->
     
 [![committers.top badge](https://user-badge.committers.top/oman/Dippp10-ally.svg)](https://user-badge.committers.top/oman/Dippp10-ally)
+
+[![committers.top badge](https://user-badge.committers.top/worldwide/Dippp10-ally.svg)](https://user-badge.committers.top/worldwide/Dippp10-ally)
