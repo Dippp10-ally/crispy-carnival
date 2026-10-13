@@ -123,3 +123,5 @@ https://github-ranked.vercel.app/Dippp10-ally
 [![committers.top badge](https://user-badge.committers.top/oman/Dippp10-ally.svg)](https://user-badge.committers.top/oman/Dippp10-ally)
 
 [![committers.top badge](https://user-badge.committers.top/worldwide/Dippp10-ally.svg)](https://user-badge.committers.top/worldwide/Dippp10-ally)
+
+![GitHub Rank](https://github-ranked.vercel.app/api/rank/Dippp10-ally?force=true)
