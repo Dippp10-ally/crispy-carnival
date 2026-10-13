@@ -132,4 +132,4 @@ https://github-ranked.vercel.app/{Dippp10-ally}
 
 GET /api/rank/{Dippp10-ally}
 
-![GitHub Rank](https://github-ranked.vercel.app/api/rank/Dippp10-ally?force=true)
+
