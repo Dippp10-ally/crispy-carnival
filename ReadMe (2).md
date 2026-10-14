@@ -19,3 +19,81 @@
 [![](https://komarev.com/ghpvc/?username=Dippp10-ally&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://github.com/account" alt="DIPIKA VAMAN KANTAPPA POOJARI " width="200" height="200" style="border-radius: 50%;" />
+</div>
+
+# Hi 👋, I'm DIPIKA VAMAN KANTAPPA POOJARI 
+## Mba in finance graduate
+
+💻 Open Source Contributor | Full-Stack Developer 🚀 Building scalable web applications & contributing to impactful projects. 🌱 Always learning
+
+📍 Muscat,  sultanate of oman | 🌐 [https://wordpress.dippp10-ally.cn](https://wordpress.dippp10-ally.cn) | 📧 [deepikakarthik697@gmail.com](mailto:deepikakarthik697@gmail.com)  
+
+<br/><br/>  
+
+## 👨‍💻 About Me
+
+这里写一些关于你的介绍...  
+
+<br/><br/>  
+
+## 🤝 Connect with me
+
+No social media links added yet...  
+
+<br/><br/>  
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dippp10-ally &show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dippp10-ally &layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dippp10-ally &theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>  
+
+<br/><br/>  
+
+## 🛠️ Skills & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuejs)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodejs)  
+
+<br/><br/>  
+
+## 🚀 Featured Projects
+
+<!-- Add your projects -->  
+
+<br/><br/>  
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- 这里会通过GitHub Actions自动更新最新的博客文章 -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- 
+    若要启用博客文章自动更新，请：
+    1. 在 .github/workflows/ 中创建 blog-post-workflow.yml
+    2. 配置 RSS URL: https://wordpress.meilingluo.cn/feed
+    3. 使用 gautamkrishnar/blog-post-workflow action
+    -->  
+
+<br/><br/>  
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dippp10-ally &theme=github-compact&width=600&height=300" alt="Activity Graph" onerror="this.onerror=null; this.parentElement.innerHTML='<p>Activity graph failed to load</p>';" />
+</div>
